@@ -1,0 +1,20 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: #000;
+	
+}
+
+
+p{
+	font-size: 8px
+	kine-height: 8px;
+	text-align: justify
+	-webkit-background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background: url(Mylove3.png) no-repeat center;
+	background-attachment: fixed;
+	_webkit-background-clip: text
+	_webkit-text-fill-color: rgb(225, 255, 255, 0.07);
+}
